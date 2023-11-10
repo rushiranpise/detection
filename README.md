@@ -35,6 +35,7 @@
 
 # Misc
 
+- [Accessibility Services](https://github.com/AoEiuV020/IAmNotDisabled/releases/download/20220130204058/IAmNotDisabled-20220130204058-app.apk)
 - [DRM Info](https://play.google.com/store/apps/details?id=com.androidfung.drminfo)
 - [DRM - Widevine Level Info](https://play.google.com/store/apps/details?id=com.ataraxianstudios.drminfo)
 - [DrHowdyDoo](https://play.google.com/store/apps/developer?id=DrHowdyDoo)
