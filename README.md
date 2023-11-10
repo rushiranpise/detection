@@ -12,6 +12,8 @@
 # Magisk / Root
 
 - [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector/releases)
+- [Advanced Root Checker](https://play.google.com/store/apps/details?id=com.anu.developers3k.rootchecker)
+- [Basic Root Checker](https://play.google.com/store/apps/details?id=com.iboalali.basicrootchecker)
 - [Checker](https://github.com/AkaneTan/Checker/releases)
 - [Detect MagiskHide](https://github.com/darvincisec/DetectMagiskHide/blob/master/app/release/app-release.apk)
 - [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_4.9.6.apk)
@@ -24,9 +26,12 @@
 - [Oprek Root Detector](https://play.google.com/store/apps/details?id=com.godevelopers.OprekCek)
 - [RootBeer Sample](https://play.google.com/store/apps/details?id=com.scottyab.rootbeer.sample)
 - [RootbeerFresh](https://play.google.com/store/apps/details?id=com.kimchangyoun.rootbeerFresh.sample)
+- [Root Checker](https://play.google.com/store/apps/details?id=com.vineelsai.rootchecker)
+- [Root-Checker](https://github.com/BharathVishal/Root-Checker/releases)
 - [Ruru](https://github.com/byxiaorun/Ruru/releases)
 - [Security Check](https://play.google.com/store/apps/details?id=com.hce.compliance.checker)
 - [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker)
+- [YARD - Yet Another Root Detector](https://play.google.com/store/apps/details?id=com.android1500.yard)
 
 # Misc
 
