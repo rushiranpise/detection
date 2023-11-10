@@ -1,5 +1,3 @@
-# detection
-
 # BootLoader
 
 - [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases)
