@@ -46,6 +46,7 @@
 # Saftey Net / Play Integrity
 
 - [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck)
+- [Play Integrity API](https://play.google.com/store/apps/details?id=com.ford.playintegrityapisample)
 - [Root and SafetyNet Checker](https://play.google.com/store/apps/details?id=com.atominvention.rootchecker)
 - [SPIC - Play Integrity Checker](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)
 - [SafetyNet Checker](https://play.google.com/store/apps/details?id=com.flinkapps.safteynet)
