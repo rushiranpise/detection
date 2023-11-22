@@ -1,7 +1,19 @@
+## Collection of Various Root Detection Apps for Android
+  PR's are always welcomed!
+
 # Boot Loader
 
 - [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases)
 
+# Banking
+- [Blind](https://play.google.com/store/apps/details?id=com.teamblind.blind)
+- [BPI](https://play.google.com/store/apps/details?id=com.bpi.ng.app)
+- [Livin' by Mandiri](https://play.google.com/store/apps/details?id=id.bmri.livin)
+- [Kuwait Mobile ID](https://play.google.com/store/apps/details?id=kw.gov.paci.PACIMobileID)
+- [Starling Bank  ](https://play.google.com/store/apps/details?id=com.starlingbank.android)
+- [Singpass](https://play.google.com/store/apps/details?id=sg.ndi.sp)
+- [Yono by SBI](https://play.google.com/store/apps/details?id=com.sbi.lotusintouch)
+- [Zain Cash](https://play.google.com/store/apps/details?id=mobi.foo.zaincash)
 # Mock Location
 
 - [Mock Checker](https://play.google.com/store/apps/details?id=net.tkgjamukeliling.mockchecker)
@@ -31,6 +43,10 @@
 - [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker)
 - [YARD - Yet Another Root Detector](https://play.google.com/store/apps/details?id=com.android1500.yard)
 
+# Games
+- [Rumble Heros: Adventure RPG](https://play.google.com/store/apps/details?id=com.playhardlab.heroes)
+- [8 Ball Pool](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool)  
+
 # Misc
 
 - [Accessibility Services](https://github.com/AoEiuV020/IAmNotDisabled/releases/download/20220130204058/IAmNotDisabled-20220130204058-app.apk)
@@ -39,6 +55,7 @@
 - [DrHowdyDoo](https://play.google.com/store/apps/developer?id=DrHowdyDoo)
 - [M-Kavach 2](https://play.google.com/store/apps/details?id=org.cdac.updatemkavach)
 - [Smali Detector](https://play.google.com/store/apps/details?id=com.godevelopers.SmaliDetector)
+- [Uber Driver](https://play.google.com/store/apps/details?id=com.ubercab.driver)
 - [VirusTotal Mobile](https://play.google.com/store/apps/details?id=com.funnycat.virustotal)
 - [Xposed Detector](https://play.google.com/store/apps/details?id=com.godevelopers.XposedChecker)
 
