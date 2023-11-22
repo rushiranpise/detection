@@ -40,7 +40,7 @@
 - [Root-Checker](https://github.com/BharathVishal/Root-Checker/releases)
 - [Ruru](https://github.com/byxiaorun/Ruru/releases)
 - [Security Check](https://play.google.com/store/apps/details?id=com.hce.compliance.checker)
-- [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker)
+- [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker) ( PI + SN + MAGISK + XPOSED/LSPOSED + KERNELSU)
 - [YARD - Yet Another Root Detector](https://play.google.com/store/apps/details?id=com.android1500.yard)
 
 # Games
@@ -60,13 +60,13 @@
 - [Xposed Detector](https://play.google.com/store/apps/details?id=com.godevelopers.XposedChecker)
 
 
-# Saftey Net / Play Integrity
+# Saftey Net / Play Integrity (SN/PI)
 
-- [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck)
-- [Play Integrity API](https://play.google.com/store/apps/details?id=com.ford.playintegrityapisample)
-- [Root and SafetyNet Checker](https://play.google.com/store/apps/details?id=com.atominvention.rootchecker)
-- [SPIC - Play Integrity Checker](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker)
-- [SafetyNet Checker](https://play.google.com/store/apps/details?id=com.flinkapps.safteynet)
-- [SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet)
-- [SafetyNet Test](https://play.google.com/store/apps/details?id=org.freeandroidtools.safetynettest)
-- [YASNAC - SafetyNet Checker](https://play.google.com/store/apps/details?id=rikka.safetynetchecker)
+- [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) - PI
+- [Play Integrity API](https://play.google.com/store/apps/details?id=com.ford.playintegrityapisample) -PI
+- [Root and SafetyNet Checker](https://play.google.com/store/apps/details?id=com.atominvention.rootchecker) - SN
+- [SPIC - Play Integrity Checker](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker) - PI
+- [SafetyNet Checker](https://play.google.com/store/apps/details?id=com.flinkapps.safteynet) - SN
+- [SafetyNet Device Check](https://play.google.com/store/apps/details?id=de.guenthers.safetynet) - PI + SN
+- [SafetyNet Test](https://play.google.com/store/apps/details?id=org.freeandroidtools.safetynettest) - SN
+- [YASNAC - SafetyNet Checker](https://play.google.com/store/apps/details?id=rikka.safetynetchecker) - SN
