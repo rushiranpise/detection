@@ -29,7 +29,7 @@
 - [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_4.9.6.apk)
 - [Magisk Detector](https://github.com/vvb2060/MagiskDetector/releases)
 - [MagiskKiller](https://github.com/canyie/MagiskKiller/releases)
-- [Memory Detector](https://github.com/reveny/detection/blob/main/MemoryDetector_2.1.0.apk)
+- [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk)
 - [Momo](https://t.me/magiskalpha/529) 
 - [Native Detector](https://t.me/reveny1)
 - [Native Test](https://t.me/nullptr_dev)
