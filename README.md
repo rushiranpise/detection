@@ -39,6 +39,7 @@
 - [Root Checker](https://play.google.com/store/apps/details?id=com.vineelsai.rootchecker)
 - [Root-Checker](https://github.com/BharathVishal/Root-Checker/releases)
 - [Ruru](https://github.com/byxiaorun/Ruru/releases)
+- [Securify](https://github.com/RabahX/Securify/)
 - [Security Check](https://play.google.com/store/apps/details?id=com.hce.compliance.checker)
 - [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker) ( PI + SN + MAGISK + XPOSED/LSPOSED + KERNELSU)
 - [YARD - Yet Another Root Detector](https://play.google.com/store/apps/details?id=com.android1500.yard)
