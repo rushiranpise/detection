@@ -11,7 +11,7 @@
 - [Native Test](https://t.me/nullptr_dev) (Search on Channel)
 - [Ruru](https://github.com/byxiaorun/Ruru/releases) (Root, XPosed)
 - [Securify](https://github.com/RabahX/Securify/) (Root)
-- [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker) (Root, XPosed, Play İntegrity, SafetyNet)
+- [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker) (Root, XPosed, Play Integrity, SafetyNet)
 
 # Banking
 - [Blind](https://play.google.com/store/apps/details?id=com.teamblind.blind)
