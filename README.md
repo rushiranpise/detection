@@ -8,7 +8,7 @@
 - [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) (Root)
 - [Momo](https://t.me/magiskalpha/529) (Root, ROM)
 - [Native Detector](https://t.me/reveny1)
-- [Native Test (Search on Channel)](https://t.me/nullptr_dev)
+- [Native Test](https://t.me/nullptr_dev) (Search on Channel)
 - [Ruru](https://github.com/byxiaorun/Ruru/releases) (Root, XPosed)
 - [Securify](https://github.com/RabahX/Securify/) (Root)
 - [TB Checker](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker) (Root, XPosed, Play İntegrity, SafetyNet)
