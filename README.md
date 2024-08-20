@@ -4,7 +4,7 @@
 # Root / XPosed / ROM / Bootloader / SafteyNet / Play Integrity
 - [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation/releases) (Bootloader)
 - [Checker](https://github.com/AkaneTan/Checker/releases) (ROM)
-- [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_5.5.0.apk) (Root, ROM)
+- [Hunter](https://github.com/rushiranpise/detection/blob/main/Hunter_5.7.2.apk) (Root, ROM)
 - [Memory Detector](https://github.com/rushiranpise/detection/blob/main/MemoryDetector_2.1.0.apk) (Root)
 - [Momo](https://t.me/magiskalpha/529) (Root, ROM)
 - [Native Detector](https://t.me/reveny1)
