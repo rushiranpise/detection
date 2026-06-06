@@ -20,7 +20,7 @@
 | 3 | **Checker** | AkaneChecker | `com.akanet.checker` | [GitHub](https://github.com/AkaneTan/Checker) | ✅ Yes | ROM Detection | v2.9 | Nov 2024 | Custom ROM identification (MIUI, ColorOS, OneUI, etc.) |
 | 4 | **Hunter** | HunterUpdate | `com.zhenxi.hunter` | [GitHub](https://github.com/w296488320/HunterUpdate) | ✅ Yes | Root, ROM Detection | v6.0.3 | 2025 | Root, Magisk, Xposed, LSPosed, ROM info, malware scan |
 | 5 | **Memory Detector** | - | (source only, no package) | [GitHub](https://github.com/rushiranpise/detection) | ✅ Yes | Memory-level Root Detection | v2.1.0 | Jan 2025 | Memory scanning for root traces, Magisk, Xposed, virtual environments |
-| 6 | **Momo** | - | `io.github.vvb2060.momo` | [Telegram](https://t.me/magiskalpha/529) | ✅ Yes | Root, ROM Detection | v4.4.1 | 2024 | Root, Magisk, Zygisk, LSPosed, code injection, custom ROM, SELinux |
+| 6 | **Momo** | - | `io.github.vvb2060.momo` | [Telegram](https://t.me/magiskalpha/529) | ❌ Closed Source | Root, ROM Detection | v4.4.1 | 2024 | Root, Magisk, Zygisk, LSPosed, code injection, custom ROM, SELinux |
 | 7 | **Native Detector** | reveny Native Detector | (no standalone package) | [GitHub](https://github.com/reveny/Android-Native-Root-Detector), [Telegram](https://t.me/reveny1) | ✅ Yes | Native Root Detection | v7.6.0 | Mar 2025 | Root, Zygisk, Shamiko, custom ROM, TrickyStore, KernelSU |
 | 8 | **Native Test** | 牛头检测 | `com.reveny.nativetest` | [Telegram](https://t.me/nullptr_dev) | ❌ Closed Source | Root Detection | v7.6.1 | Jan 2025 | Root, Magisk, KernelSU, APatch, Zygisk detection |
 | 9 | **Ruru** | - | `com.byxiaorun.ruru` | [GitHub](https://github.com/byxiaorun/Ruru) | ✅ Yes | Root, Xposed Detection | v1.1.0 | 2024 | Root, Xposed/LSPosed, Magisk modules, hook detection |
